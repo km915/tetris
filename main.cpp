@@ -274,7 +274,7 @@ int main(){
     for(int j=0;j<h;j++) screen[j][0]=true; 
     for(int j=0;j<h;j++) screen[j][w-1]=true; 
 
-    system("cls");
+    // system("cls");
 
     while(!gameOver){
         score++;
